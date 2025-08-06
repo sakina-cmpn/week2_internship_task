@@ -1,0 +1,7 @@
+Method,Execution_Time_Seconds
+rolling_mean_numpy,0.21288084983825684
+rolling_mean_pandas,0.14631891250610352
+rolling_var_numpy,5.648654937744141
+rolling_var_pandas,0.12799072265625
+ewma_pandas,0.023207902908325195
+fft_bandpass,0.48500728607177734
